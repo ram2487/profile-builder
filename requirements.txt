@@ -1,0 +1,13 @@
+pandas
+flask
+pymongo
+numpy
+apscheduler
+bson
+scipy
+elasticsearch
+nltk
+es_pandas
+progressbar2
+pytest
+requests
